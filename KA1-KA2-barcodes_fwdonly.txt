@@ -1,0 +1,3 @@
+LibName	Type	B1/I1	B2/I2	Overhang	Rembase
+KA1	3	CAGATCTG	.	.	.
+KA2	3	AACGCTTA	.	.	.

@@ -1,0 +1,7 @@
+# fastq files
+*.fastq
+*.fq
+
+# alignment files
+*.sam
+*.bam
