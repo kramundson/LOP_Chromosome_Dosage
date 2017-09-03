@@ -1,7 +1,11 @@
 # fastq files
 *.fastq
 *.fq
+*.fastq.gz
+*.fq.gz
 
 # alignment files
 *.sam
 *.bam
+
+genome2/potato_dm_v404_all_pm_un.fasta
